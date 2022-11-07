@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+body{
+    font-family: 'kanit', sans-serif;
+    background-color:#14213d ;
+}
+
+.newcolor{
+    background-color:#e5e5e5 !important;
+}
+.cardPicture{
+    background-color: #fca311 !important;
+}
